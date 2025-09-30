@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\consumer",
+    "\\consumer\\Controllers",
+    "\\consumer\\Services",
+    "\\producer",
+    "\\producer\\producer"
+  ],
+  "SelectedNode": "\\consumer\\program.cs",
+  "PreviewInSolutionExplorer": false
+}

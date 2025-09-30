@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Services\\RabbitMqConsumerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:consumer\\Services\\RabbitMqConsumerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:consumer\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Controllers\\MessagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:consumer\\Controllers\\MessagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\producer\\producer\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:producer\\producer\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\consumer.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:consumer\\consumer.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Dockerfile",
+              "RelativeDocumentMoniker": "consumer\\Dockerfile",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Dockerfile",
+              "RelativeToolTip": "consumer\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-30T18:57:00.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\producer\\producer\\Dockerfile",
+              "RelativeDocumentMoniker": "producer\\producer\\Dockerfile",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\producer\\producer\\Dockerfile",
+              "RelativeToolTip": "producer\\producer\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-30T18:48:42.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-30T18:43:27.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "consumer\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "consumer\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:42:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Services\\RabbitMqConsumerService.cs",
+              "RelativeDocumentMoniker": "consumer\\Services\\RabbitMqConsumerService.cs",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\Services\\RabbitMqConsumerService.cs",
+              "RelativeToolTip": "consumer\\Services\\RabbitMqConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:41:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "consumer.csproj",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\consumer.csproj",
+              "RelativeDocumentMoniker": "consumer\\consumer.csproj",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\consumer.csproj",
+              "RelativeToolTip": "consumer\\consumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T18:40:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\program.cs",
+              "RelativeDocumentMoniker": "consumer\\program.cs",
+              "ToolTip": "C:\\Users\\kauan\\Downloads\\Aula-BackAvan\u00E7ad\\Producer_Consumer\\consumer\\program.cs",
+              "RelativeToolTip": "consumer\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:40:22.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
