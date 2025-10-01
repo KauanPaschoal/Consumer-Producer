@@ -1,3 +1,4 @@
+using Consumer.Services;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
@@ -22,7 +23,7 @@ namespace Consumer.Services
         {
             var factory = new ConnectionFactory
             {
-                HostName = "rabbitmq", // nome do serviço no docker-compose
+                HostName = "rabbitmq",
                 UserName = "guest",
                 Password = "guest"
             };
@@ -60,11 +61,21 @@ namespace Consumer.Services
             return Task.CompletedTask;
         }
 
-        public List<string> GetMessages()
+        public List<MessageDto> GetMessages()
         {
             lock (_messages)
             {
-                return _messages.ToList();
+                return _messages
+                    .Select(msg =>
+                    {
+                        if (msg.StartsWith("\"") && msg.EndsWith("\""))
+                        {
+                            msg = msg.Substring(1, msg.Length - 2).Replace("\\\"", "\"");
+                        }
+                        return JsonSerializer.Deserialize<MessageDto>(msg);
+                    })
+                    .Where(obj => obj != null)
+                    .ToList();
             }
         }
 
