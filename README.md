@@ -3,7 +3,10 @@
 ## Integrantes
 
 - **Kauan Paschoal**  
-  **RA:** 
+  **RA: 01241014**
+
+- **Guilherme Gavassa**  
+  **RA: 01241190**
 
 ---
 
